@@ -1,1 +1,17 @@
 /* your code */
+#tab {
+	border-collapse:collapse;
+	width:100%;
+	border:1px solid white ;
+	
+	
+	
+}
+#head {
+	background-color:lightblue;
+	text-align:left;
+}
+tr:nth-child(even)
+{ background-color:lightgray;
+	
+}
